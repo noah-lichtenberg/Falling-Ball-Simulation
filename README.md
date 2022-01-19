@@ -1,2 +1,2 @@
 # Falling-Ball-Simulation
-Python simulation of ball experiencing viscous friction while falling through fluid 
+Python simulation of ball experiencing viscous friction while falling through an unknown fluid. Characteristics of ball and list of data points were given. By solving for the forces being applied to the ball with a system of two first order ordinary differential equations, we were able to estimate the properties of the  fluid of which the ball was falling through. Code and analysis by Noah Lichtenberg and Ruohong Gao.
